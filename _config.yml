@@ -1,0 +1,68 @@
+# Site settings
+lang: en
+timezone: UTC
+title: Product Ryan
+tagline: "Product strategy and insights"
+description: "Public website for Product Ryan powered by Jekyll and the Chirpy theme."
+url: https://example.github.io
+baseurl: ""
+
+# Theme
+theme: jekyll-theme-chirpy
+
+theme_mode: light
+
+permalink: /posts/:year/:month/:day/:title/
+
+paginate: 10
+paginate_path: "page:num"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-redirect-from
+  - jekyll-feed
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+sass:
+  style: compressed
+  sourcemap: never
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Social links
+social:
+  name: Product Ryan
+  links:
+    - https://github.com/productryan
+
+# Google Analytics or other integrations can be configured later.
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+  - scope:
+      path: "pages"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
