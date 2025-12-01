@@ -8,7 +8,7 @@ url: https://example.github.io
 baseurl: ""
 
 # Theme
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-modernist
 
 theme_mode: light
 
