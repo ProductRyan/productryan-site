@@ -27,6 +27,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 collections:
   tabs:
