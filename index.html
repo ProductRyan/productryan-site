@@ -1,3 +1,33 @@
 ---
 layout: home
 ---
+
+<section id="intro">
+  <h1>{{ site.title }}</h1>
+  <p class="lead">Insights, experiments, and observations from product strategist Ryan.</p>
+</section>
+
+<section id="recent-posts">
+  <h2>Recent Posts</h2>
+  <div class="post-list">
+    {% assign recent_posts = site.posts | slice: 0, 3 %}
+    {% if recent_posts.size > 0 %}
+      {% for post in recent_posts %}
+        <article class="post-item">
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+          <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 36 }}</p>
+          <a class="read-more" href="{{ post.url | relative_url }}">Read more →</a>
+        </article>
+      {% endfor %}
+    {% else %}
+      <p>No posts yet. Check back soon.</p>
+    {% endif %}
+  </div>
+</section>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>Hello, I'm Ryan—a product leader focused on blending strategy, research, and experimentation to build impactful experiences. This space captures ideas, learnings, and stories from projects I've guided.</p>
+  <p>Expect concise updates on product discovery, delivery tactics, and ways to keep teams aligned while shipping meaningful outcomes.</p>
+</section>

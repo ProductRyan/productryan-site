@@ -3,7 +3,10 @@ lang: en
 timezone: UTC
 title: Product Ryan
 tagline: "Product strategy and insights"
-description: "Public website for Product Ryan powered by Jekyll and the Chirpy theme."
+description: "Product strategy notes, experiments, and observations from Ryan."
+author: Ryan
+email: hello@productryan.com
+copyright: "© 2024 Product Ryan. All rights reserved."
 url: https://example.github.io
 baseurl: ""
 
