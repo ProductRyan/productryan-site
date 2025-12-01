@@ -11,7 +11,7 @@ url: https://example.github.io
 baseurl: ""
 
 # Theme
-theme: jekyll-theme-modernist
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 theme_mode: light
 
@@ -24,9 +24,10 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-archives
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 collections:
   tabs:
