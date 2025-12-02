@@ -7,8 +7,8 @@ description: "Product strategy notes, experiments, and observations from Ryan."
 author: Ryan
 email: hello@productryan.com
 copyright: "© 2024 Product Ryan. All rights reserved."
-url: https://example.github.io
-baseurl: ""
+url: https://productryan.github.io
+baseurl: "/productryan-site"
 
 # Theme
 # Using the GitHub Pages-supported Minima theme
