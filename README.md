@@ -1,7 +1,6 @@
 # productryan-site
 
-This repository hosts a Jekyll site using the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) generated from a
-WordPress export.
+This repository hosts a Jekyll site using the [Minima theme](https://github.com/jekyll/minima) generated from a WordPress export.
 
 ## Getting started
 1. Install Ruby (3.2) and Bundler.
