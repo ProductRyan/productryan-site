@@ -1,13 +1,13 @@
 source "https://rubygems.org"
 
-ruby "3.2.3"
+# Keep the Ruby requirement flexible enough for the GitHub Actions runner (3.2.x)
+ruby "~> 3.2"
 
 gem "jekyll", "~> 4.3"
-gem "jekyll-paginate", "~> 1.1"
+gem "minima", "~> 2.5"
+
 gem "jekyll-seo-tag", "~> 2.8"
 gem "jekyll-sitemap", "~> 1.4"
 gem "jekyll-redirect-from", "~> 0.16"
 gem "jekyll-feed", "~> 0.17"
-gem "jekyll-remote-theme", "~> 0.4"
-gem "jekyll-include-cache", "~> 0.2"
 gem "webrick", "~> 1.8"

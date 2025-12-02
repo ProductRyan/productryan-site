@@ -11,46 +11,31 @@ url: https://example.github.io
 baseurl: ""
 
 # Theme
-remote_theme: cotes2020/jekyll-theme-chirpy
+# Using the GitHub Pages-supported Minima theme
+# See https://github.com/jekyll/minima for configuration options
 
-theme_mode: light
+# Set the theme directly so GitHub Pages can build without the remote theme plugin
+# You can override the theme in development if needed
 
-permalink: /posts/:year/:month/:day/:title/
+theme: minima
 
-paginate: 10
-paginate_path: "page:num"
+# Navigation links displayed in the Minima header
+header_pages:
+  - pages/about.md
+  - pages/contact.md
 
+# Plugins supported by GitHub Pages
 plugins:
-  - jekyll-paginate
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-include-cache
-
-collections:
-  tabs:
-    output: true
-    sort_by: order
-
-sass:
-  style: compressed
-  sourcemap: never
 
 highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-# Social links
-social:
-  name: Product Ryan
-  links:
-    - https://github.com/productryan
-
-# Google Analytics or other integrations can be configured later.
 
 # Defaults
 defaults:
@@ -59,14 +44,8 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true
-      toc: true
   - scope:
       path: "pages"
-    values:
-      layout: page
-  - scope:
-      path: ""
-      type: tabs
+      type: pages
     values:
       layout: page
