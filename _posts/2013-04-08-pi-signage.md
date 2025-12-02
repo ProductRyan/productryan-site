@@ -7,7 +7,9 @@ layout: post
 ---
 I recently purchased a <a title="Raspberry Pi" href="http://www.raspberrypi.org/" target="_blank">Raspberry Pi</a> after hearing about its potential over the past few months from <a title="Joe Gullo Raspberry Pi Project" href="http://www.surfrock66.com/raspberry-pi-shadowbox-case/" target="_blank">friends</a> and <a title="Lifehacker Raspberry Pi page" href="http://lifehacker.com/raspberry-pi/">tech media</a>.  The Raspberry Pi is a small, inexpensive (<a title="Buy a Raspberry Pi" href="http://www.newark.com/jsp/search/productdetail.jsp?sku=43W5302&COM=raspi-group" target="_blank">currently $35</a>) computer that's designed to be fiddled with.  In fact, it was designed so that parents could afford to give one to their child to learn about computer programming and technology engineering. You see, the device doesn't come with any operating system, you have to install one from any number of sources; a <a title="Linux" href="https://en.wikipedia.org/wiki/Linux" target="_blank">Linux distribution</a>, a home-brewed OS, or you can use the command line to give the device instructions.  Since I'm not a programmer, I went with the "easy" route of finding a pre-built operating system to install.
 
-http://www.youtube.com/watch?feature=player_embedded&v=X9KqdTzvdNA
+<div class="video-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X9KqdTzvdNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 After looking around on the web for a simple first-project I stumbled upon <a title="Screenly" href="http://www.screenlyapp.com/" target="_blank">Screenly</a>, which is a program for the Pi that is used to manage a monitor/tv as a digital sign. This sparked my interest as I thought it might be fun to give it a shot and write a review of the project for my colleagues in the Higher Ed field, who are always looking for digital signage solutions on a shoestring budget.
 <h2>Project kit list</h2>

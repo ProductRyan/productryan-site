@@ -111,6 +111,8 @@ Communion was a free-for-all with priests in the center aisle prepared to offer 
 
 Once Mass ended any shred of reverence went aside and as Pope Francis made his way back down the aisle there were scores of folks clapping, singing, and shouting for his attention. I did capture a quick video of Pope Francis as he walked past us, but I am glad to say that I did not stand on a chair to get it, so dignity did win in the end for me.
 
-[embed]https://youtu.be/y9OMOlE5HRI[/embed]
+<div class="video-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y9OMOlE5HRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <h1>Totally worth it</h1>
 The experience was totally worth it and really at no time did we feel overly frustrated or mad at the process. I am certain that many people lose out on the ability to go to mass in the Basilica each year because the process isn't clear, the schedule isn't posted, there are no helpful people in the square, or due to language barriers. We were lucky, and tenacious.
