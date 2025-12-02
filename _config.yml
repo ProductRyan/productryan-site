@@ -1,12 +1,11 @@
 # Site settings
 lang: en
 timezone: UTC
-title: Product Ryan
+title: ProductRyan
 tagline: "Product strategy and insights"
 description: "Product strategy notes, experiments, and observations from Ryan."
 author: Ryan
-email: hello@productryan.com
-copyright: "© 2024 Product Ryan. All rights reserved."
+copyright: "© 2024 ProductRyan. All rights reserved."
 url: https://productryan.github.io
 baseurl: "/productryan-site"
 
@@ -22,7 +21,12 @@ theme: minima
 # Navigation links displayed in the Minima header
 header_pages:
   - pages/about.md
-  - pages/contact.md
+
+# Theme-specific settings
+minima:
+  social_links:
+    - platform: linkedin
+      user_url: https://www.linkedin.com/in/productryan/
 
 # Plugins supported by GitHub Pages
 plugins:
