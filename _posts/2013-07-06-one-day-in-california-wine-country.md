@@ -44,7 +44,9 @@ Watching the sunset on the patio of Brix with their flower and vegetable gardens
 So there is a friendly rivalry between the two counties about their wine-making prowess.  The truth is, wine is such a personal affair anyway so who cares.  Find wines that you like.  For me, I prefer the family-oriented nature of the wineries we stopped into around Sonoma county, and each of the places we stopped in Napa were very busy.
 <h1>The map</h1>
 <p style="text-align:left;">Here is a map of our four day trip with locations mentioned in this post highlighted in green. Note that Wine Country lies in two valleys, therefore the driving can get significantly curvy and hilly when hopping between them.</p>
-<p style="text-align:center;">[googlemaps https://maps.google.com/maps/ms?msa=0&msid=202059075543420302566.0004e0d14fa3abeea65c8&ie=UTF8&t=m&ll=38.39872,-122.45224&spn=0.37669,0.583649&z=10&output=embed&w=525&h=350]</p>
+<div class="map-embed">
+<iframe width="525" height="350" src="https://maps.google.com/maps/ms?msa=0&msid=202059075543420302566.0004e0d14fa3abeea65c8&amp;ie=UTF8&amp;t=m&amp;ll=38.39872,-122.45224&amp;spn=0.37669,0.583649&amp;z=10&amp;output=embed" title="California wine country map" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div>
 
 <h1>On the way out</h1>
 <strong><a title="Muir Woods" href="http://www.nps.gov/muwo/index.htm" target="_blank">Muir Woods</a> </strong>| Mill Valley
