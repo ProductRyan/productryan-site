@@ -33,7 +33,10 @@ Many folks who are talking about MOOCs as an alternative or supplement to higher
 
 In 1996 a game researcher named Richard Bartle came up with a <a title="Bartle Test" href="http://en.wikipedia.org/wiki/Bartle_Test" target="_blank">way to organize player types</a> of Massively Multiplayer Online Games (or MMOG, the inspiration for the MOOC acronym) into four regions of a 4 area quadrant:
 
-[caption id="" align="aligncenter" width="220"]<img alt="Bartle's Player types" src="http://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Character_theory_chart.svg/220px-Character_theory_chart.svg.png" width="220" height="190" /> Bartle's Player Types from Wikipedia[/caption]
+<figure class="wp-caption aligncenter">
+<img alt="Bartle's Player types" src="http://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Character_theory_chart.svg/220px-Character_theory_chart.svg.png" width="220" height="190" />
+<figcaption>Bartle's Player Types from Wikipedia</figcaption>
+</figure>
 
 When I consider how these types might be used to describe students:
 

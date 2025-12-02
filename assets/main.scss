@@ -1,0 +1,30 @@
+---
+---
+@import "minima";
+
+.post-content img,
+.page-content img {
+  display: block;
+  margin: 1.25rem auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.wp-caption {
+  margin: 1.75rem auto;
+  text-align: center;
+  max-width: 100%;
+}
+
+.wp-caption img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.wp-caption figcaption {
+  margin-top: 0.5rem;
+  color: #6a737d;
+  font-size: 0.9em;
+}
