@@ -28,8 +28,6 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-redirect-from
 
 highlighter: rouge
 markdown: kramdown
