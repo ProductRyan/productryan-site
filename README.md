@@ -3,7 +3,7 @@
 This repository hosts a Jekyll site using the [Minima theme](https://github.com/jekyll/minima) generated from a WordPress export.
 
 ## Getting started
-1. Install Ruby (3.2) and Bundler.
+1. Install Ruby 3.2 and Bundler (any 3.2.x release works with the Gemfile).
 2. Install dependencies:
    ```bash
    bundle install

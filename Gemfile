@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-ruby "3.2.3"
+# Keep the Ruby requirement flexible enough for the GitHub Actions runner (3.2.x)
+ruby "~> 3.2"
 
 gem "jekyll", "~> 4.3"
 gem "minima", "~> 2.5"
