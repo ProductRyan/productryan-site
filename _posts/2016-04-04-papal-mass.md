@@ -65,7 +65,10 @@ Once we arrived at the shortcut the gruff officer posted there asked me if I had
 
 He instructed that one of us would have to stay behind (as human collateral I guess), so my wife stayed behind sensing that this was a bigger deal to me. He directed me into the "fast lane" security line, I made it through and started walking with the flow of traffic towards the Basilica, which passes the bronze door.
 
-[caption id="attachment_227" align="aligncenter" width="1585"]<img class="alignnone size-full wp-image-227" src="https://productryan.wordpress.com/wp-content/uploads/2016/04/bronze-door-map.png" alt="bronze door map" width="1585" height="829" /> Location of Bronze Door, circa June 2015[/caption]
+<figure id="attachment_227" class="wp-caption aligncenter">
+<img class="alignnone size-full wp-image-227" src="https://productryan.wordpress.com/wp-content/uploads/2016/04/bronze-door-map.png" alt="bronze door map" width="1585" height="829" />
+<figcaption>Location of Bronze Door, circa June 2015</figcaption>
+</figure>
 
 Once I saw the bronze door I walked up the steps, confirmed that I was in the right place after seeing another jubilant American guy bounding down the steps grasping an envelope with both hands. At the top there was just one other person in front of me, once he stepped aside the Swiss guardsman in the doorway asked me, in English (I never realized just how obviously American I am), for my name. I spoke it one time. He excused himself, came back about two minutes later with an envelope, handed it to me and politely said "good day."
 
@@ -73,11 +76,17 @@ The envelope read "Ryan O'Connell" and contained two tickets to the Mass. I was 
 
 I felt as if I was Charlie from Willy Wonka, and a group of tourists broke out in song... at least in my head.
 
-[caption id="attachment_338" align="aligncenter" width="3264"]<img class="alignnone size-full wp-image-338" src="https://productryan.wordpress.com/wp-content/uploads/2016/04/img_0364.jpg" alt="IMG_0364" width="3264" height="2448" /> Tickets to mass[/caption]
+<figure id="attachment_338" class="wp-caption aligncenter">
+<img class="alignnone size-full wp-image-338" src="https://productryan.wordpress.com/wp-content/uploads/2016/04/img_0364.jpg" alt="IMG_0364" width="3264" height="2448" />
+<figcaption>Tickets to mass</figcaption>
+</figure>
 <h1>Tickets do not guarantee access</h1>
 The next morning we arrived at St. Peter's square around 7am in order to get in line for the Mass, which was scheduled to start at 9am. The square was PACKED with people in line, we ended up getting in line right around the post office trailer, which was on the opposite side of the square from the security checkpoint.
 
-[caption id="attachment_228" align="aligncenter" width="3264"]<img class="alignnone size-full wp-image-228" src="https://productryan.wordpress.com/wp-content/uploads/2016/04/img_0361.jpg" alt="The line from the post office trailer" width="3264" height="2448" /> The line from the postal trailer[/caption]
+<figure id="attachment_228" class="wp-caption aligncenter">
+<img class="alignnone size-full wp-image-228" src="https://productryan.wordpress.com/wp-content/uploads/2016/04/img_0361.jpg" alt="The line from the post office trailer" width="3264" height="2448" />
+<figcaption>The line from the postal trailer</figcaption>
+</figure>
 
 I have never seen so many nuns in one place, ever. The line was festive and we made fast friends with a family from Michigan who too had a wild story about getting tickets.
 
@@ -91,7 +100,10 @@ At exactly 9:00am the doors to the Basilica shut and Mass began. I'm guessing th
 <h1>Quiet hysteria</h1>
 After the many archbishops processed down the center aisle, Pope Francis began his walk. Flanked by several priests, the Pope intently and calmly made his way towards the alter, while on both sides of the aisle priests, nuns, brothers, and schoolchildren alike silently raised their cell phones to get a picture of the pontif.
 
-[caption id="attachment_340" align="aligncenter" width="3264"]<img class="alignnone size-full wp-image-340" src="https://productryan.wordpress.com/wp-content/uploads/2016/04/img_0366.jpg" alt="IMG_0366" width="3264" height="2448" /> The procession inside St. Peter's Basilica[/caption]
+<figure id="attachment_340" class="wp-caption aligncenter">
+<img class="alignnone size-full wp-image-340" src="https://productryan.wordpress.com/wp-content/uploads/2016/04/img_0366.jpg" alt="IMG_0366" width="3264" height="2448" />
+<figcaption>The procession inside St. Peter's Basilica</figcaption>
+</figure>
 
 The Mass was beautiful and moving. Each attendee was given a booklet that contained all of the readings, songs, and responses in both Italian and English.  The Mass was celebrated in many languages, with each element read/sung in a different language. However, due to the many people and the general excitement of seeing the Pope a lot of people were not very reverent during the Mass.
 
