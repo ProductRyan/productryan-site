@@ -16,7 +16,7 @@ For our honeymoon last June, my wife and I planned a tour of Italy, which we di
  	<li>Use the <a href="http://productryan.wordpress.com/wp-content/uploads/2016/04/bronze-door-map.png" target="_blank" rel="noopener">security shortcut</a> to skip the security line and head for the bronze door to pick up the tickets (they are always free)</li>
  	<li>Get to the Vatican earlier than you think you should on the day of the Mass (at least two(2) hours before the start time)</li>
  	<li>Bring a water bottle or Camelback bag for the line (small bags are allowed in Mass)</li>
- 	<li><a href="http://www.traditionalcatholicpriest.com/wp-content/uploads/2013/08/IMG_0270.jpg" target="_blank" rel="noopener">Dress appropriately</a> but comfortably, you will be bounced for un-modest clothing (which includes bare shoulders)</li>
+        <li>Dress appropriately but comfortably, you will be bounced for un-modest clothing (which includes bare shoulders)</li>
  	<li>Remain reverent and polite</li>
  	<li> Don't be afraid to ask the <a href="https://www.wikiwand.com/en/Swiss_Guard" target="_blank" rel="noopener">Swiss Guard</a> questions if you get turned around, trust no one else for real information</li>
 </ol>
