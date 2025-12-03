@@ -5,7 +5,7 @@ categories: [Food, Travel]
 permalink: /2016/03/12/naspa-2016-recommendations/
 layout: post
 ---
-As a Hoosier, I feel compelled to offer some advice on having a great time in Indianapolis during <a href="http://conference2016.naspa.org/" target="_blank" rel="noopener">NASPA 2016</a>.
+As a Hoosier, I feel compelled to offer some advice on having a great time in Indianapolis during NASPA 2016.
 <h1>Pre-arrival reading</h1>
 <a href="https://www.wikiwand.com/en/Indiana" target="_blank" rel="noopener">Indiana on Wikipedia</a>
 <a href="https://www.wikiwand.com/en/Indianapolis" target="_blank" rel="noopener">Indianapolis on Wikipedia</a>
