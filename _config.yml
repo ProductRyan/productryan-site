@@ -1,9 +1,9 @@
 # Site settings
 lang: en
 timezone: UTC
-title: ProductRyan
-tagline: "Product strategy and insights"
-description: "Product strategy notes, experiments, and observations from Ryan."
+title: "Ryan O'Connell"
+tagline: "Thoughts and observations on product management, travel, and life."
+description: "Thoughts and observations on product management, travel, and life."
 author: Ryan
 copyright: "© 2024 ProductRyan. All rights reserved."
 url: https://productryan.github.io
